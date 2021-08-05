@@ -9,9 +9,15 @@ wow
 tidak wkwk, jadi makin sulit untuk memahami isi dari kode nya.
 
 jumlah fungsi yang punya nama = 91
-jumlah fungsi tak punya nama = 383
 pakai rule `function \w*\(`
+jumlah fungsi tak punya nama = 383
+pakai rule `function\(`
 
+selain itu mereka menawarkan berbayar
+	dengan kontrak dan penambahan fitur
+
+wajar saja jika kita dibuat tidak mengerti dengan code nya	
+agar fitur berbayarnya bisa dilaksakan
 
 # apakah punya dokumentasi ?
 ya dan bagus berbentuk link-link
